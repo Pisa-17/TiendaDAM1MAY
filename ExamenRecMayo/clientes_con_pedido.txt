@@ -1,0 +1,3 @@
+Cliente{dni=11111111A, nombre=ANA, telefono=658111111} - Número de pedidos: 1
+Cliente{dni=22222222B, nombre=LOLA, telefono=649222222} - Número de pedidos: 3
+Cliente{dni=33333333C, nombre=JUAN, telefono=652333333} - Número de pedidos: 1

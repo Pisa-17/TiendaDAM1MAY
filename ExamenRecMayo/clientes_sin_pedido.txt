@@ -1,0 +1,2 @@
+Cliente{dni=44444444D, nombre=LUIS, telefono=635444444}
+Cliente{dni=55555555E, nombre=EVA, telefono=622555555}
